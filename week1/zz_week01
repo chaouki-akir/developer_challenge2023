@@ -1,1 +1,3 @@
-report
+report zz_2023_w01.
+
+write 'Hello world'.
